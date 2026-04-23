@@ -1,0 +1,43 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:7147;http://localhost:5130",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "SEED_ADMIN_EMAIL": "admin@ristorante.local",
+        "SEED_ADMIN_PASSWORD": "ChangeThisPassword!123",
+        "SEED_ADMIN_UPDATE_EXISTING": "true",
+        "SEED_KITCHEN_EMAIL": "kitchen@ristorante.local",
+        "SEED_KITCHEN_PASSWORD": "KitchenPass!123",
+        "SEED_SALA_EMAIL": "sala@ristorante.local",
+        "SEED_SALA_PASSWORD": "SalaPass!123",
+        "SEED_CUSTOMER_EMAIL": "test@cliente.com",
+        "SEED_CUSTOMER_PASSWORD": "ClientePass!123",
+        "SEED_DEFAULT_USERS_UPDATE_EXISTING": "true"
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:7147;http://localhost:5130",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "SEED_ADMIN_EMAIL": "admin@ristorante.local",
+        "SEED_ADMIN_PASSWORD": "ChangeThisPassword!123",
+        "SEED_ADMIN_UPDATE_EXISTING": "true",
+        "SEED_KITCHEN_EMAIL": "kitchen@ristorante.local",
+        "SEED_KITCHEN_PASSWORD": "KitchenPass!123",
+        "SEED_SALA_EMAIL": "sala@ristorante.local",
+        "SEED_SALA_PASSWORD": "SalaPass!123",
+        "SEED_CUSTOMER_EMAIL": "test@cliente.com",
+        "SEED_CUSTOMER_PASSWORD": "ClientePass!123",
+        "SEED_DEFAULT_USERS_UPDATE_EXISTING": "true"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\bin\Release\net10.0\GestionaleRistorante.Infrastructure.deps.json
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\bin\Release\net10.0\GestionaleRistorante.Infrastructure.runtimeconfig.json
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\bin\Release\net10.0\GestionaleRistorante.Infrastructure.dll
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\bin\Release\net10.0\GestionaleRistorante.Infrastructure.pdb
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\bin\Release\net10.0\GestionaleRistorante.Core.dll
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\bin\Release\net10.0\GestionaleRistorante.Core.pdb
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\GestionaleRistorante.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\GestionaleRistorante.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\GestionaleRistorante.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\GestionaleRistorante.Infrastructure.AssemblyInfo.cs
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\GestionaleRistorante.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\Gestiona.B1A0AB0B.Up2Date
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\GestionaleRistorante.Infrastructure.dll
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\refint\GestionaleRistorante.Infrastructure.dll
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\GestionaleRistorante.Infrastructure.pdb
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\GestionaleRistorante.Infrastructure.genruntimeconfig.cache
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Infrastructure\obj\Release\net10.0\ref\GestionaleRistorante.Infrastructure.dll

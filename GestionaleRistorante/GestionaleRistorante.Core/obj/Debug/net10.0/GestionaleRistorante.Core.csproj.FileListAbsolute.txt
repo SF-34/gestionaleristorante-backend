@@ -1,0 +1,14 @@
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\TestResults\GestionaleRistorante.Core.deps.json
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\TestResults\GestionaleRistorante.Core.dll
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\TestResults\GestionaleRistorante.Core.pdb
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\bin\Debug\net10.0\GestionaleRistorante.Core.deps.json
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\bin\Debug\net10.0\GestionaleRistorante.Core.dll
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\bin\Debug\net10.0\GestionaleRistorante.Core.pdb
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\obj\Debug\net10.0\GestionaleRistorante.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\obj\Debug\net10.0\GestionaleRistorante.Core.AssemblyInfoInputs.cache
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\obj\Debug\net10.0\GestionaleRistorante.Core.AssemblyInfo.cs
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\obj\Debug\net10.0\GestionaleRistorante.Core.csproj.CoreCompileInputs.cache
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\obj\Debug\net10.0\GestionaleRistorante.Core.dll
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\obj\Debug\net10.0\refint\GestionaleRistorante.Core.dll
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\obj\Debug\net10.0\GestionaleRistorante.Core.pdb
+C:\Users\FernandoPalamandadig\source\repos\GestionaleRistorante\GestionaleRistorante\GestionaleRistorante.Core\obj\Debug\net10.0\ref\GestionaleRistorante.Core.dll

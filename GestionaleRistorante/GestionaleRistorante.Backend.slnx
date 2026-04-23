@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GestionaleRistorante.Core/GestionaleRistorante.Core.csproj" />
+  <Project Path="GestionaleRistorante.csproj" />
+  <Project Path="GestionaleRistorante.Infrastructure/GestionaleRistorante.Infrastructure.csproj" />
+  <Project Path="GestionaleRistorante.Tests/GestionaleRistorante.Tests.csproj" />
+</Solution>
